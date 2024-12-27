@@ -1,7 +1,7 @@
 <h1>📍Olá, me chamo Kayque Carmo!</h1>
 <div>
 <p>
-  Atualmente eu tenho 21 anos de idade e estou trabalhando atualmente registrado como vendedor de loja a procura de um estágio em front-end, estou no ensino superior de Desenvolvimento de Jogos Digitais e estou no último semestre para me formar na metade de 2025, estou fazendo curso de Inglês e de Desenvolvimento Web para trabalhar como Desenvolvedor Full Stack.
+  Tenho 21 anos, curso ensino superior em Desenvolvimento de Jogos Digitais na Universidade São Judas Tadeu, com data de formação prevista para o primeiro semestre de 2025. Busco estágio em front-end para aumentar meu conhecimento e iniciar minha carreira, atualmente divido meu tempo com meu trabalho como Vendedor de loja, e cursos como, inglês e Desenvolvimento Web e atuar como Full Stack futuramente.
 </p>
 </div>
 <div>
