@@ -1,4 +1,4 @@
-<h1>📍Olá, me chamo Kayque Carmo!</h1>
+<h1>📍Olá, me chamo Kayque Almeida!</h1>
 <div>
 <p>
   Tenho 21 anos, curso ensino superior em Desenvolvimento de Jogos Digitais na Universidade São Judas Tadeu, com data de formação prevista para o primeiro semestre de 2025. Busco estágio em front-end para aumentar meu conhecimento e iniciar minha carreira, atualmente divido meu tempo com meu trabalho como Vendedor de loja, e cursos como, inglês e Desenvolvimento Web e atuar como Full Stack futuramente.
