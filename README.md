@@ -1,7 +1,7 @@
 <h1>📍Olá, me chamo Kayque Almeida!</h1>
 <div>
 <p>
- 👨‍🎓 Em transição de carreira, atualmente trabalho com esportes (tênis) e sou formado em Desenvolvimento de Jogos Digitais. Tenho buscado minha primeira oportunidade como Desenvolvedor Front-End para aplicar na prática os conhecimentos adquiridos e crescer na área de tecnologia. Estou cursando Desenvolvimento Web Completo na Udemy, com foco em me tornar um Desenvolvedor Full Stack.
+ 👨‍🎓 Tenho 22 anos e estou em transição de carreira, atualmente trabalho com esportes (tênis) e sou formado em Desenvolvimento de Jogos Digitais. Tenho buscado minha primeira oportunidade como Desenvolvedor Front-End para aplicar na prática os conhecimentos adquiridos e crescer na área de tecnologia. Estou cursando Desenvolvimento Web Completo na Udemy, com foco em me tornar um Desenvolvedor Full Stack.
 </p>
 </div>
 <div>
